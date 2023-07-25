@@ -1,3 +1,3 @@
 # News-Website
 
-You Can Check the Deployment Here - LINK :- https://main--playful-cocada-51dbd6.netlify.app/
+You Can Check the Deployment Here - LINK :- https://news-api-1.netlify.app/
